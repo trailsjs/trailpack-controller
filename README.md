@@ -7,8 +7,11 @@
 [![Code Climate][codeclimate-image]][codeclimate-url]
 [![Follow @trailsjs on Twitter][twitter-image]][twitter-url]
 
-Trailpack controller Class. Exposes Trails Application resources to the class
-instances. Trailpack controllers should extend this Class. 
+Trailpack controller Class. Exposes Trails Application resources to the class instances.
+ 
+Trailpack controllers should extend this class, it allow you to use hapi API interface for all webserver compatible 
+(currently trailpack-hapi and trailpack-express).  
+
 For basic Trails controllers you should use [trails-controller](https://github.com/trailsjs/trails-controller).
 
 ## Usage
