@@ -14,7 +14,7 @@ deploy:
   provider: npm
   email: hello@trailsjs.io
   api_key:
-    secure: TODO
+    secure: o0d05jLWq0csHaTx7j3dMzmKrFg/eub6l57RQ6wJT8NypdCt1SofxfP+iUntykKvfzOOUIUIoh8ZhsWPXs48wLiCrUo8O79i9gvZqEarHA6BoAj1uJQPLCAEyY8A6+8SWR4MH7hsDeNoT1UuxBq7bSIjtWUz4fc1r21/tnoZSRnOjq8tc2C+RpWUlATiB8HTQFcRWPGQknfbpb1BsytiuU1Nthv+he+2MWeGwoaR/Ry0OqLuX7c4DrWMf9YiMHLhKsKEd3T0xwF6N7JLOv7QWQJlTQ522SClSlBYHfftf9P9ChNQRBTRK5rrxUAaBnOc2Us62Iblahad8jige2ffjZAbtMXY0YhkG5xASNELr3H9dAlT9O1ORR124wOGX6kZ0bcT63DQl1lFQ+V1NQ18NhTiBo7egZ+BNUJ5ifp5lkgX7bbJv7OfKfrsMPwjbmAiXD4tCFmeHM+ztKeHj3SJ2s9Mts10grZmgTLsZmFGjcC1rBwj/nckYLKwZLvJjbq4787hgvTfkjTkvPyiba8b+Qtcd2et+fENVtqWUcBX79mkJ4dMUu5gTbahl3XYe42G3RwBHDJAl5AM/VxvYtJ8GZfOzydN+9clWgOnu2MU+uvdp5EaX8XQiBDCj1QO9PcK1K1nA+Vb4nzMpRis46Xs5bjKPZ/P/6Q0YdiqzBlz48Q=
   on:
     tags: true
     repo: trailsjs/trailpack-controller
