@@ -15,6 +15,7 @@ describe('Trailpack Controller', () => {
       const keys = Object.keys(foo)
 
       assert.equal(foo.app, 1)
+      assert.equal(foo.isUnified, true)
       assert.equal(keys.indexOf('app'), -1)
     })
   })
